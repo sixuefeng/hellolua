@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="2.3" package="com.burningfire.sixf" version="1.0.0">
+    <ui-application appid="com.burningfire.sixf" exec="hellolua" type="capp" multiple="false" taskmanage="true" nodisplay="false">
+        <icon>hellolua.png</icon>
+        <label>hellolua</label>
+	</ui-application>
+</manifest>
